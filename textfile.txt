@@ -1,1 +1,1 @@
-some text in to branch Task1
+<<<Some text from branch Task1>>>

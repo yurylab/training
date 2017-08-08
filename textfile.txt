@@ -1,1 +1,1 @@
-<<<Some text from branch Task1>>>
+* * * Some text from branch Task1 * * *

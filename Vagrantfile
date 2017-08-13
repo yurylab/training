@@ -21,8 +21,6 @@ Vagrant.configure(2) do |config|
   config.vm.box = "bertvv/centos72"
 
   config.vm.provider "virtualbox" do |vb|
-#  config.vm.provision "shell", inline: "yum install net-tools -y"
-  config.vm.provision "shell", inline: "yum install mc -y"
     vb.gui = true
     vb.memory = "1024"
     vb.cpus = 2
